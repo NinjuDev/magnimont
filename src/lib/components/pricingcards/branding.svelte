@@ -5,7 +5,7 @@
 
 <div
   id="pricing"
-  class="flex my-12 flex-col md:flex-row items-center justify-between gap-8 py-12 px-[10%] md:px-5"
+  class="flex my-12 flex-col md:flex-row items-center justify-center gap-8 py-12 px-[10%] md:px-5"
 >
 
   <Card
@@ -122,7 +122,7 @@
     Buy Now
     </button>
   </Card>
-  <Card
+  <!-- <Card
     data-aos-delay="0"
     data-aos-duration="1000"
     data-aos="fade-up"
@@ -197,5 +197,5 @@
     >
       Contact Us
     </button>
-  </Card>
+  </Card> -->
 </div>
