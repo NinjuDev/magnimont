@@ -134,7 +134,6 @@
       <span class="text-3xl font-semibold">$</span>
       <span class="text-5xl font-extrabold tracking-tight">1999+</span>
     </div>
-    <!-- List -->
     <ul class="my-7 space-y-4">
       <li class="flex space-x-2 rtl:space-x-reverse">
         <CheckCircleSolid class="w-4 h-4 text-amber-200" />

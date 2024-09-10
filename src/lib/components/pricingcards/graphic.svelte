@@ -77,7 +77,7 @@
   </Card>
 
   <!-- Second card -->
-  <Card
+  <!-- <Card
     padding="xl"
     class="globalcard w-[350px] max-w-full relative rounded-2xl border border-b-0 flex-shrink-0 bg-transparent border-amber-100/90 px-8 py-6 md:w-[450px]"
   >
@@ -87,7 +87,6 @@
       <span class="text-5xl font-extrabold tracking-tight">49</span>
       <span class="ms-1 text-xl font-normal">/month</span>
     </div>
-    <!-- List -->
     <ul class="my-7 space-y-4">
       <li class="flex space-x-2 rtl:space-x-reverse">
         <CheckCircleSolid class="w-4 h-4 text-amber-200 " />
@@ -147,7 +146,7 @@
       </li>
     </ul>
     <Button class="w-full">Choose plan</Button>
-  </Card>
+  </Card> -->
 
   <!-- Third card -->
 </div>
