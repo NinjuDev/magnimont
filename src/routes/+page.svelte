@@ -21,7 +21,8 @@
 <div class="box-shadow h-auto min-h-[25rem] sm:min-h-[30rem] w-full bg-black bg-grid-small-white/[0.2] relative flex items-center justify-center">
   <div class="absolute pointer-events-none inset-0 flex items-center justify-center bg-black/60 [mask-image:radial-gradient(ellipse_at_center,transparent_50%,black)]"></div>
   
-  <div class="flex flex-col px-4 sm:px-8 lg:px-16">
+  <!-- <div class="flex flex-col px-4 sm:px-8 lg:px-16"> -->
+  <div class="flex flex-col p-0">
     <Intro
       id="testimonials"
       name="Client Testimonials"
