@@ -26,8 +26,8 @@
       </h2>
       <FooterLinkGroup ulClass="text-gray-300 text-xs">
         <FooterLink liClass="mb-2" href="/">About</FooterLink>
-        <FooterLink liClass="mb-2" href="forum.magnimont.com">Forum</FooterLink>
-        <FooterLink liClass="mb-2" href="host.magnimont.com">Hosting</FooterLink>
+        <FooterLink liClass="mb-2" href="https://forum.magnimont.com">Forum</FooterLink>
+        <FooterLink liClass="mb-2" href="https://host.magnimont.com">Hosting</FooterLink>
         <FooterLink liClass="mb-2" href="/">Career</FooterLink>
       </FooterLinkGroup>
     </div>
@@ -55,8 +55,8 @@
         Connect
       </h2>
       <FooterLinkGroup ulClass="text-gray-300 text-xs">
-        <FooterLink liClass="mb-4" href="/">+91 8076974315</FooterLink>
-        <FooterLink liClass="mb-4" href="/">hi@magnimont.com</FooterLink>
+        <FooterLink liClass="mb-4" href="tel:+91 8076974315">+91 8076974315</FooterLink>
+        <FooterLink liClass="mb-4" href="mailto:hi@magnimont.com">hi@magnimont.com</FooterLink>
       </FooterLinkGroup>
     </div>
   </div>
