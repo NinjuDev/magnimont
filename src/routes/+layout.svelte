@@ -17,4 +17,4 @@
   <Navbar />
 </div>
 <slot />
-<Footer />
+
