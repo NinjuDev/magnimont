@@ -1,5 +1,4 @@
 <script>
-  // COMPLETELY EDIT THIS FILE OR YOU ARE GONE
   import {
     Footer,
     FooterLinkGroup,
@@ -62,37 +61,26 @@
       </FooterLinkGroup>
     </div>
   </div>
-  <div class="pb-5 px-8 bg-black md:flex md:items-center md:justify-between">
-    <FooterCopyright
-      spanClass="text-xs text-amber-200 sm:text-center"
-      href="/"
-      by="Magnimont™"
-    />
-    <div
-      class="flex mt-4 space-x-6 rtl:space-x-reverse sm:justify-center md:mt-0"
-    >
-      <FooterIcon href="/">
 
-      </FooterIcon>
-      <FooterIcon href="https://discord.gg/magnimont-876113814314164256">
-        <DiscordSolid
-          class="w-5 h-5 text-gray-500 dark:text-gray-500 hover:text-gray-900 dark:hover:text-white"
-        />
-      </FooterIcon>
-      <FooterIcon href="https://www.linkedin.com/company/magnimont/">
-<LinkedinSolid
-          class="w-5 h-5 text-gray-500 dark:text-gray-500 hover:text-gray-900 dark:hover:text-white"
-        />
-      </FooterIcon>
-      <FooterIcon href="https://github.com/Magnimont">
-        <GithubSolid
-          class="w-5 h-5 text-gray-500 dark:text-gray-500 hover:text-gray-900 dark:hover:text-white"
-        />
-      </FooterIcon>
-      <FooterIcon href="https://www.youtube.com/@Magnimont/videos">
-        <YoutubeSolid
-          class="w-5 h-5 text-gray-500 dark:text-gray-500 hover:text-gray-900 dark:hover:text-white"
-        /></FooterIcon>
+  <!-- Add the image part here -->
+  <div class="flex justify-center md:justify-between bg-black">
+    <img src="/path-to-your-image.png" alt="Image description" class="w-1/2 md:w-1/4 p-4" />
+    <div class="flex flex-col justify-center space-y-4">
+      <div>
+        <h3 class="text-sm font-semibold text-amber-200">Company</h3>
+        <FooterLinkGroup ulClass="text-gray-300 text-xs">
+          <FooterLink liClass="mb-2" href="/">Careers</FooterLink>
+          <FooterLink liClass="mb-2" href="/">Terms of use</FooterLink>
+          <FooterLink liClass="mb-2" href="/">Privacy Policy</FooterLink>
+          <FooterLink liClass="mb-2" href="/">Bug bounty program</FooterLink>
+          <FooterLink liClass="mb-2" href="/">Contact</FooterLink>
+        </FooterLinkGroup>
+      </div>
+      <FooterCopyright
+        spanClass="text-xs text-amber-200 sm:text-center"
+        href="/"
+        by="Sidescroll Ventures™"
+      />
     </div>
   </div>
 </Footer>
