@@ -19,7 +19,7 @@
     <!-- Left Side: Image, Description, Copyright -->
     <div class="flex flex-col items-center md:items-start">
       <!-- Image -->
-      <img src="/path-to-your-image.png" alt="Company Image" class="w-32 h-32 mb-4" />
+      <img src="https://images-ext-1.discordapp.net/external/Fck1ccubcCLfJ_sL7BuIG3Q6c5uU_MFZ3XbEAme0jBQ/%3Fsize%3D512/https/cdn.discordapp.com/icons/876113814314164256/0e0f35f8cd793beefafbdec39382f1db.png" alt="Company Image" class="w-32 h-32 mb-4" />
       
       <!-- Description -->
       <div class="text-center md:text-left">
