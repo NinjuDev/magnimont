@@ -23,22 +23,22 @@
       
       <!-- Description -->
       <div class="text-center md:text-left">
-        <p class="text-white text-sm mb-4">The best Discord bot to bootstrap and grow your Discord server.</p>
+        <p class="text-white text-sm mb-4">Test</p>
       </div>
 
       <!-- Copyright -->
       <FooterCopyright
         spanClass="text-xs text-amber-200 sm:text-center"
         href="/"
-        by="Sidescroll Ventures™"
+        by="Magnimont™"
       />
     </div>
 
-    <!-- Right Side: Categories -->
-    <div class="flex flex-col space-y-8">
+    <!-- Right Side: Horizontal Sections -->
+    <div class="flex flex-col md:flex-row md:space-x-12 justify-between w-full">
       <!-- Magnimont -->
-      <div>
-        <h2 class="mb-6 text-sm font-semibold text-amber-200 uppercase">Magnimont</h2>
+      <div class="mb-8 md:mb-0">
+        <h2 class="text-sm font-semibold text-amber-200 uppercase mb-4">Magnimont</h2>
         <FooterLinkGroup ulClass="text-gray-300 text-xs">
           <FooterLink liClass="mb-2" href="/">About</FooterLink>
           <FooterLink liClass="mb-2" href="https://forum.magnimont.com">Forum</FooterLink>
@@ -48,8 +48,8 @@
       </div>
 
       <!-- Socials -->
-      <div>
-        <h2 class="mb-6 text-sm font-semibold uppercase text-amber-200">Socials</h2>
+      <div class="mb-8 md:mb-0">
+        <h2 class="text-sm font-semibold text-amber-200 uppercase mb-4">Socials</h2>
         <FooterLinkGroup ulClass="text-gray-300 text-xs">
           <FooterLink liClass="mb-2" href="https://discord.gg/magnimont-876113814314164256">Discord Server</FooterLink>
           <FooterLink liClass="mb-2" href="https://www.linkedin.com/company/magnimont/">Linkedin</FooterLink>
@@ -59,8 +59,8 @@
       </div>
 
       <!-- Legal -->
-      <div>
-        <h2 class="mb-6 text-sm font-semibold uppercase text-amber-200">Legal</h2>
+      <div class="mb-8 md:mb-0">
+        <h2 class="text-sm font-semibold text-amber-200 uppercase mb-4">Legal</h2>
         <FooterLinkGroup ulClass="text-gray-300 text-xs">
           <FooterLink liClass="mb-2" href="/privacy-policy">Privacy Policy</FooterLink>
           <FooterLink liClass="mb-2" href="/">Licensing</FooterLink>
@@ -70,7 +70,7 @@
 
       <!-- Connect -->
       <div>
-        <h2 class="mb-6 text-sm font-semibold uppercase text-amber-200">Connect</h2>
+        <h2 class="text-sm font-semibold text-amber-200 uppercase mb-4">Connect</h2>
         <FooterLinkGroup ulClass="text-gray-300 text-xs">
           <FooterLink liClass="mb-4" href="tel:+91 8076974315">+91 8076974315</FooterLink>
           <FooterLink liClass="mb-4" href="mailto:hi@magnimont.com">hi@magnimont.com</FooterLink>
