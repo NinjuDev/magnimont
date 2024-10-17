@@ -19,7 +19,7 @@
     <!-- Left Side: Image, Description, Copyright -->
     <div class="flex flex-col items-center md:items-start">
       <!-- Image -->
-      <img src="/path-to-your-image.png" alt="Company Image" class="w-32 h-32 mb-4" />
+      <img src="https://imgur.com/a/Db3Tkyr" alt="Company Image" class="w-32 h-32 mb-4" />
       
       <!-- Description -->
       <div class="text-center md:text-left">
