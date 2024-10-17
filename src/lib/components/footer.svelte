@@ -64,7 +64,7 @@
 
   <!-- Add the image part here -->
   <div class="flex justify-center md:justify-between bg-black">
-    <img src="/path-to-your-image.png" alt="Image description" class="w-1/2 md:w-1/4 p-4" />
+    <img src="https://cdn.discordapp.com/icons/876113814314164256/0e0f35f8cd793beefafbdec39382f1db.png" alt="The One Stop Tech Store" class="w-1/2 md:w-1/4 p-4" />
     <div class="flex flex-col justify-center space-y-4">
       <div>
         <h3 class="text-sm font-semibold text-amber-200">Company</h3>
