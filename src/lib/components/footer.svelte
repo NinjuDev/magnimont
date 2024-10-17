@@ -13,6 +13,8 @@
     GithubSolid,
     DiscordSolid,
     TwitterSolid,
+    LinkedinSolid,
+    YoutubeSolid,
   } from "flowbite-svelte-icons";
 </script>
 
@@ -45,9 +47,9 @@
     <div>
       <h2 class="mb-6 text-sm font-semibold uppercase text-amber-200">Legal</h2>
       <FooterLinkGroup ulClass="text-gray-300 text-xs">
-        <FooterLink liClass="mb-2" href="/">Privacy Policy</FooterLink>
+        <FooterLink liClass="mb-2" href="/privacy-policy">Privacy Policy</FooterLink>
         <FooterLink liClass="mb-2" href="/">Licensing</FooterLink>
-        <FooterLink liClass="mb-2" href="/">Terms & Conditions</FooterLink>
+        <FooterLink liClass="mb-2" href="/terms-of-service">Terms & Conditions</FooterLink>
       </FooterLinkGroup>
     </div>
     <div>
@@ -77,13 +79,20 @@
           class="w-5 h-5 text-gray-500 dark:text-gray-500 hover:text-gray-900 dark:hover:text-white"
         />
       </FooterIcon>
-      <FooterIcon href="/">
+      <FooterIcon href="https://www.linkedin.com/company/magnimont/">
+<LinkedinSolid
+          class="w-5 h-5 text-gray-500 dark:text-gray-500 hover:text-gray-900 dark:hover:text-white"
+        />
       </FooterIcon>
       <FooterIcon href="https://github.com/Magnimont">
         <GithubSolid
           class="w-5 h-5 text-gray-500 dark:text-gray-500 hover:text-gray-900 dark:hover:text-white"
         />
       </FooterIcon>
+      <FooterIcon href="https://www.youtube.com/@Magnimont/videos">
+        <YoutubeSolid
+          class="w-5 h-5 text-gray-500 dark:text-gray-500 hover:text-gray-900 dark:hover:text-white"
+        /></FooterIcon>
     </div>
   </div>
 </Footer>
