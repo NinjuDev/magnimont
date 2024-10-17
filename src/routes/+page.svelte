@@ -57,7 +57,7 @@
   <Faqtabs />
 </div>
 
-<Footer />
+
 
 <!-- Meta Tags -->
 <MetaTags
