@@ -19,25 +19,25 @@
     <!-- Left Side: Image, Description, Copyright -->
     <div class="flex flex-col items-center md:items-start">
       <!-- Image -->
-      <img src="https://imgur.com/a/Db3Tkyr" alt="Company Image" class="w-32 h-32 mb-4" />
+      <img src="/path-to-your-image.png" alt="Company Image" class="w-32 h-32 mb-4" />
       
       <!-- Description -->
       <div class="text-center md:text-left">
-        <p class="text-white text-sm mb-4">Test</p>
+        <p class="text-white text-sm mb-4">The best Discord bot to bootstrap and grow your Discord server.</p>
       </div>
 
       <!-- Copyright -->
       <FooterCopyright
         spanClass="text-xs text-amber-200 sm:text-center"
         href="/"
-        by="Magnimont™"
+        by="Sidescroll Ventures™"
       />
     </div>
 
     <!-- Right Side: Horizontal Sections -->
-    <div class="flex flex-col md:flex-row md:space-x-12 justify-between w-full">
+    <div class="flex flex-wrap md:flex-row md:space-x-12 justify-between w-full">
       <!-- Magnimont -->
-      <div class="mb-8 md:mb-0">
+      <div class="mb-8 md:mb-0 flex flex-col items-center md:items-start">
         <h2 class="text-sm font-semibold text-amber-200 uppercase mb-4">Magnimont</h2>
         <FooterLinkGroup ulClass="text-gray-300 text-xs">
           <FooterLink liClass="mb-2" href="/">About</FooterLink>
@@ -48,7 +48,7 @@
       </div>
 
       <!-- Socials -->
-      <div class="mb-8 md:mb-0">
+      <div class="mb-8 md:mb-0 flex flex-col items-center md:items-start">
         <h2 class="text-sm font-semibold text-amber-200 uppercase mb-4">Socials</h2>
         <FooterLinkGroup ulClass="text-gray-300 text-xs">
           <FooterLink liClass="mb-2" href="https://discord.gg/magnimont-876113814314164256">Discord Server</FooterLink>
@@ -59,7 +59,7 @@
       </div>
 
       <!-- Legal -->
-      <div class="mb-8 md:mb-0">
+      <div class="mb-8 md:mb-0 flex flex-col items-center md:items-start">
         <h2 class="text-sm font-semibold text-amber-200 uppercase mb-4">Legal</h2>
         <FooterLinkGroup ulClass="text-gray-300 text-xs">
           <FooterLink liClass="mb-2" href="/privacy-policy">Privacy Policy</FooterLink>
@@ -69,7 +69,7 @@
       </div>
 
       <!-- Connect -->
-      <div>
+      <div class="flex flex-col items-center md:items-start">
         <h2 class="text-sm font-semibold text-amber-200 uppercase mb-4">Connect</h2>
         <FooterLinkGroup ulClass="text-gray-300 text-xs">
           <FooterLink liClass="mb-4" href="tel:+91 8076974315">+91 8076974315</FooterLink>
