@@ -4,6 +4,7 @@
   import "cal-sans";
   import "inter-ui/inter.css";
   import Navbar from "$lib/components/nav.svelte";
+  import Footer from "$lib/components/footer.svelte";
 </script>
 
 <!-- <div class="h-[50rem] w-full bg-black bg-grid-small-white/[0.2] relative flex items-center justify-center">
@@ -17,4 +18,6 @@
   <Navbar />
 </div>
 <slot />
+
+  <Footer />
 
