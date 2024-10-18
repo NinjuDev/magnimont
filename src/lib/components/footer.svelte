@@ -24,7 +24,7 @@
         
         <!-- Description -->
         <div class="text-center md:text-left">
-          <p class="text-white text-sm mb-4">Test</p>
+          <p class="text-white text-sm font-bold mb-4">Test</p> <!-- Bold description -->
         </div>
 
         <!-- Copyright -->
@@ -36,48 +36,51 @@
       </div>
 
       <!-- Right Side: Horizontal Sections -->
-      <div class="flex flex-wrap md:flex-row md:space-x-12 justify-between w-full">
+      <div class="grid grid-cols-2 gap-x-8 text-sm font-medium text-white">
+        
         <!-- Magnimont -->
-        <div class="mb-8 md:mb-0 flex flex-col items-center md:items-start">
-          <h2 class="text-sm font-semibold text-amber-200 uppercase mb-4">Magnimont</h2>
-          <FooterLinkGroup ulClass="text-gray-300 text-xs">
-            <FooterLink liClass="mb-2" href="/">About</FooterLink>
-            <FooterLink liClass="mb-2" href="https://forum.magnimont.com">Forum</FooterLink>
-            <FooterLink liClass="mb-2" href="https://host.magnimont.com">Hosting</FooterLink>
-            <FooterLink liClass="mb-2" href="/">Career</FooterLink>
+        <div class="flex flex-col space-y-2">
+          <h2 class="text-amber-200 font-bold uppercase mb-2">Magnimont</h2> <!-- Bold subcategory title -->
+          <FooterLinkGroup ulClass="space-y-2">
+            <FooterLink href="/">About</FooterLink>
+            <FooterLink href="https://forum.magnimont.com">Forum</FooterLink>
+            <FooterLink href="https://host.magnimont.com">Hosting</FooterLink>
+            <FooterLink href="/">Career</FooterLink>
           </FooterLinkGroup>
         </div>
 
         <!-- Socials -->
-        <div class="mb-8 md:mb-0 flex flex-col items-center md:items-start">
-          <h2 class="text-sm font-semibold text-amber-200 uppercase mb-4">Socials</h2>
-          <FooterLinkGroup ulClass="text-gray-300 text-xs">
-            <FooterLink liClass="mb-2" href="https://discord.gg/magnimont-876113814314164256">Discord Server</FooterLink>
-            <FooterLink liClass="mb-2" href="https://www.linkedin.com/company/magnimont/">Linkedin</FooterLink>
-            <FooterLink liClass="mb-2" href="https://github.com/Magnimont">Github</FooterLink>
-            <FooterLink liClass="mb-2" href="https://www.youtube.com/@Magnimont/videos">Youtube</FooterLink>
+        <div class="flex flex-col space-y-2">
+          <h2 class="text-amber-200 font-bold uppercase mb-2">Socials</h2> <!-- Bold subcategory title -->
+          <FooterLinkGroup ulClass="space-y-2">
+            <FooterLink href="https://discord.gg/magnimont-876113814314164256">Discord Server</FooterLink>
+            <FooterLink href="https://www.linkedin.com/company/magnimont/">Linkedin</FooterLink>
+            <FooterLink href="https://github.com/Magnimont">Github</FooterLink>
+            <FooterLink href="https://www.youtube.com/@Magnimont/videos">Youtube</FooterLink>
           </FooterLinkGroup>
         </div>
 
         <!-- Legal -->
-        <div class="mb-8 md:mb-0 flex flex-col items-center md:items-start">
-          <h2 class="text-sm font-semibold text-amber-200 uppercase mb-4">Legal</h2>
-          <FooterLinkGroup ulClass="text-gray-300 text-xs">
-            <FooterLink liClass="mb-2" href="/privacy-policy">Privacy Policy</FooterLink>
-            <FooterLink liClass="mb-2" href="/">Licensing</FooterLink>
-            <FooterLink liClass="mb-2" href="/terms-of-service">Terms & Conditions</FooterLink>
+        <div class="flex flex-col space-y-2">
+          <h2 class="text-amber-200 font-bold uppercase mb-2">Legal</h2> <!-- Bold subcategory title -->
+          <FooterLinkGroup ulClass="space-y-2">
+            <FooterLink href="/privacy-policy">Privacy Policy</FooterLink>
+            <FooterLink href="/">Licensing</FooterLink>
+            <FooterLink href="/terms-of-service">Terms & Conditions</FooterLink>
           </FooterLinkGroup>
         </div>
 
         <!-- Connect -->
-        <div class="flex flex-col items-center md:items-start">
-          <h2 class="text-sm font-semibold text-amber-200 uppercase mb-4">Connect</h2>
-          <FooterLinkGroup ulClass="text-gray-300 text-xs">
-            <FooterLink liClass="mb-4" href="tel:+91 8076974315">+91 8076974315</FooterLink>
-            <FooterLink liClass="mb-4" href="mailto:hi@magnimont.com">hi@magnimont.com</FooterLink>
+        <div class="flex flex-col space-y-2">
+          <h2 class="text-amber-200 font-bold uppercase mb-2">Connect</h2> <!-- Bold subcategory title -->
+          <FooterLinkGroup ulClass="space-y-2">
+            <FooterLink href="tel:+91 8076974315">+91 8076974315</FooterLink>
+            <FooterLink href="mailto:hi@magnimont.com">hi@magnimont.com</FooterLink>
           </FooterLinkGroup>
         </div>
+        
       </div>
+
     </div>
   </div>
 </Footer>
