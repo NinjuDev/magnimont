@@ -24,7 +24,7 @@
         
         <!-- Description -->
         <div class="text-center md:text-left">
-          <p class="text-white text-sm font-bold mb-4">Test</p> <!-- Bold description -->
+          <p class="text-white text-lg font-bold mb-4">Test</p> <!-- Increased text size and kept it bold -->
         </div>
 
         <!-- Copyright -->
