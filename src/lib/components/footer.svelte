@@ -16,15 +16,15 @@
 
 <Footer footerType="sitemap">
   <div class="bg-black text-white p-8 rounded-lg shadow-lg">
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-8 place-content-center">
+    <div class="flex flex-col md:flex-row gap-8 justify-center">
       <!-- Left Side: Image, Description, Copyright -->
-      <div class="flex flex-col items-center md:items-start">
+      <div class="flex flex-col items-center md:items-start flex-1">
         <!-- Image -->
         <img src="https://images-ext-1.discordapp.net/external/Fck1ccubcCLfJ_sL7BuIG3Q6c5uU_MFZ3XbEAme0jBQ/%3Fsize%3D512/https/cdn.discordapp.com/icons/876113814314164256/0e0f35f8cd793beefafbdec39382f1db.png" alt="Company Image" class="w-32 h-32 mb-4 rounded-full border-2 border-amber-200" />
         
         <!-- Description -->
         <div class="text-center md:text-left">
-          <p class="text-white text-lg font-bold mb-4">Test</p> <!-- Increased text size and kept it bold -->
+          <p class="text-white text-lg font-bold mb-4">Innovating since binary age!</p> <!-- Increased text size and bold -->
         </div>
 
         <!-- Copyright -->
@@ -36,7 +36,7 @@
       </div>
 
       <!-- Right Side: Horizontal Sections -->
-      <div class="grid grid-cols-2 gap-x-8 text-sm font-medium text-white">
+      <div class="flex flex-col md:flex-row gap-8 flex-1 justify-between">
         
         <!-- Magnimont -->
         <div class="flex flex-col space-y-2">
