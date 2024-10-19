@@ -57,10 +57,7 @@
   <Faqtabs />
 </div>
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 3f3424d64dde957a9e0f5f490ce317360ce68d8f
 
 <!-- Meta Tags -->
 <MetaTags
