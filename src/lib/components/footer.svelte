@@ -84,8 +84,8 @@
       </div>
     </div>
 
-    <!-- Payment Options with reduced overall scale -->
-    <div class="flex flex-row justify-center items-center mt-6" style="transform: scale(0.8); margin-top: 2px;">
+    <!-- Payment Options within the Footer -->
+    <div class="flex flex-row justify-center items-center mt-6">
       <img src="https://i.imghippo.com/files/0lR9W1729434470.png" alt="PayPal" class="w-10 h-10 mx-1.5" />
       <img src="https://i.imghippo.com/files/FfEeo1729443120.png" alt="Xoom" class="w-10 h-10 mx-1.5" />
       <img src="https://i.imghippo.com/files/Ee3ed1729434490.png" alt="UPI" class="w-10 h-10 mx-1.5" />
