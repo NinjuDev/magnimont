@@ -87,14 +87,14 @@
     <!-- Payment Options -->
     <div class="flex flex-row justify-center items-center mt-6">
       <!-- Add payment icons with relevant links or descriptions -->
-      <img src="/images/PayPal.svg" alt="PayPal" class="w-10 h-10 mx-2" />
-      <img src="/images/Xoom.svg" alt="Xoom" class="w-10 h-10 mx-2" />
-      <img src="/images/upi.svg" alt="UPI" class="w-10 h-10 mx-2" />
-      <img src="/images/visa.svg" alt="Visa" class="w-10 h-10 mx-2" />
-      <img src="/images/Mastercard.svg" alt="Mastercard" class="w-10 h-10 mx-2" />
-      <img src="/images/gpay.svg" alt="Google Pay" class="w-10 h-10 mx-2" />
-      <img src="/images/Bitcoin.svg" alt="Crypto" class="w-10 h-10 mx-2" />
-      <img src="/images/Solana.svg" alt="Solana" class="w-10 h-10 mx-2" />
+      <img src="src/images/PayPal.svg" alt="PayPal" class="w-10 h-10 mx-2" />
+      <img src="src/images/Xoom.svg" alt="Xoom" class="w-10 h-10 mx-2" />
+      <img src="src/images/upi.svg" alt="UPI" class="w-10 h-10 mx-2" />
+      <img src="src/images/visa.svg" alt="Visa" class="w-10 h-10 mx-2" />
+      <img src="src/images/Mastercard.svg" alt="Mastercard" class="w-10 h-10 mx-2" />
+      <img src="src/images/gpay.svg" alt="Google Pay" class="w-10 h-10 mx-2" />
+      <img src="src/images/Bitcoin.svg" alt="Crypto" class="w-10 h-10 mx-2" />
+      <img src="src/images/Solana.svg" alt="Solana" class="w-10 h-10 mx-2" />
     </div>
   </div>
 </Footer>
