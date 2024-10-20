@@ -1,3 +1,19 @@
+<script>
+  import {
+    Footer,
+    FooterLinkGroup,
+    FooterLink,
+    FooterIcon,
+    FooterCopyright,
+  } from "flowbite-svelte";
+  import {
+    DiscordSolid,
+    LinkedinSolid,
+    GithubSolid,
+    YoutubeSolid,
+  } from "flowbite-svelte-icons";
+</script>
+
 <Footer footerType="sitemap">
   <div class="bg-black text-white p-8 rounded-lg shadow-lg">
     <div class="flex flex-col md:flex-row gap-8 justify-center">
