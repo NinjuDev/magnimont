@@ -84,17 +84,16 @@
       </div>
     </div>
 
-    <!-- Payment Options -->
-    <div class="flex flex-row justify-center items-center mt-6">
-      <!-- Add payment icons with reduced size -->
-      <img src="https://i.imghippo.com/files/0lR9W1729434470.png" alt="PayPal" class="w-6 h-6 mx-2" />
-      <img src="https://i.imghippo.com/files/FfEeo1729443120.png" alt="Xoom" class="w-6 h-6 mx-2" />
-      <img src="https://i.imghippo.com/files/Ee3ed1729434490.png" alt="UPI" class="w-6 h-6 mx-2" />
-      <img src="https://i.imghippo.com/files/0qfF61729441941.png" alt="Visa" class="w-6 h-6 mx-2" />
-      <img src="https://i.imghippo.com/files/DJMED1729434451.png" alt="Mastercard" class="w-6 h-6 mx-2" />
-      <img src="https://i.imghippo.com/files/dYdmk1729442965.png" alt="Google Pay" class="w-6 h-6 mx-2" />
-      <img src="https://i.imghippo.com/files/t84Rd1729443149.png" alt="Crypto" class="w-6 h-6 mx-2" />
-      <img src="https://i.imghippo.com/files/QwzZm1729443014.png" alt="Solana" class="w-6 h-6 mx-2" />
+    <!-- Payment Options with reduced overall scale -->
+    <div class="flex flex-row justify-center items-center mt-6" style="transform: scale(0.8);"> <!-- Adjust scale here -->
+      <img src="https://i.imghippo.com/files/0lR9W1729434470.png" alt="PayPal" class="mx-2" />
+      <img src="https://i.imghippo.com/files/FfEeo1729443120.png" alt="Xoom" class="mx-2" />
+      <img src="https://i.imghippo.com/files/Ee3ed1729434490.png" alt="UPI" class="mx-2" />
+      <img src="https://i.imghippo.com/files/0qfF61729441941.png" alt="Visa" class="mx-2" />
+      <img src="https://i.imghippo.com/files/DJMED1729434451.png" alt="Mastercard" class="mx-2" />
+      <img src="https://i.imghippo.com/files/dYdmk1729442965.png" alt="Google Pay" class="mx-2" />
+      <img src="https://i.imghippo.com/files/t84Rd1729443149.png" alt="Crypto" class="mx-2" />
+      <img src="https://i.imghippo.com/files/QwzZm1729443014.png" alt="Solana" class="mx-2" />
     </div>
   </div>
 </Footer>
