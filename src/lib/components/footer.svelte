@@ -43,7 +43,7 @@
       <div class="flex flex-col md:flex-row gap-8 flex-1 justify-between">
         <!-- Magnimont -->
         <div class="flex flex-col space-y-2">
-          <h2 class="text-amber-200 font-bold uppercase mb-2">Magnimont</h2> <!-- Bold subcategory title -->
+          <h2 class="text-amber-200 font-bold uppercase mb-2">Magnimont</h2>
           <FooterLinkGroup ulClass="space-y-2">
             <FooterLink href="/">About</FooterLink>
             <FooterLink href="https://forum.magnimont.com">Forum</FooterLink>
@@ -54,7 +54,7 @@
 
         <!-- Socials -->
         <div class="flex flex-col space-y-2">
-          <h2 class="text-amber-200 font-bold uppercase mb-2">Socials</h2> <!-- Bold subcategory title -->
+          <h2 class="text-amber-200 font-bold uppercase mb-2">Socials</h2>
           <FooterLinkGroup ulClass="space-y-2">
             <FooterLink href="https://discord.gg/magnimont-876113814314164256">Discord Server</FooterLink>
             <FooterLink href="https://www.linkedin.com/company/magnimont/">Linkedin</FooterLink>
@@ -65,7 +65,7 @@
 
         <!-- Legal -->
         <div class="flex flex-col space-y-2">
-          <h2 class="text-amber-200 font-bold uppercase mb-2">Legal</h2> <!-- Bold subcategory title -->
+          <h2 class="text-amber-200 font-bold uppercase mb-2">Legal</h2>
           <FooterLinkGroup ulClass="space-y-2">
             <FooterLink href="/privacy-policy">Privacy Policy</FooterLink>
             <FooterLink href="/">Licensing</FooterLink>
@@ -75,13 +75,26 @@
 
         <!-- Connect -->
         <div class="flex flex-col space-y-2">
-          <h2 class="text-amber-200 font-bold uppercase mb-2">Connect</h2> <!-- Bold subcategory title -->
+          <h2 class="text-amber-200 font-bold uppercase mb-2">Connect</h2>
           <FooterLinkGroup ulClass="space-y-2">
             <FooterLink href="tel:+91 8076974315">+91 8076974315</FooterLink>
             <FooterLink href="mailto:hi@magnimont.com">hi@magnimont.com</FooterLink>
           </FooterLinkGroup>
         </div>
       </div>
+    </div>
+
+    <!-- Payment Options -->
+    <div class="flex flex-row justify-center items-center mt-6">
+      <!-- Add payment icons with relevant links or descriptions -->
+      <img src="/images/PayPal.svg" alt="PayPal" class="w-10 h-10 mx-2" />
+      <img src="/images/Xoom.svg" alt="Xoom" class="w-10 h-10 mx-2" />
+      <img src="/images/upi.svg" alt="UPI" class="w-10 h-10 mx-2" />
+      <img src="/images/visa.svg" alt="Visa" class="w-10 h-10 mx-2" />
+      <img src="/images/Mastercard.svg" alt="Mastercard" class="w-10 h-10 mx-2" />
+      <img src="/images/gpay.svg" alt="Google Pay" class="w-10 h-10 mx-2" />
+      <img src="/images/Bitcoin.svg" alt="Crypto" class="w-10 h-10 mx-2" />
+      <img src="/images/Solana.svg" alt="Solana" class="w-10 h-10 mx-2" />
     </div>
   </div>
 </Footer>
