@@ -1,19 +1,3 @@
-<script>
-  import {
-    Footer,
-    FooterLinkGroup,
-    FooterLink,
-    FooterIcon,
-    FooterCopyright,
-  } from "flowbite-svelte";
-  import {
-    DiscordSolid,
-    LinkedinSolid,
-    GithubSolid,
-    YoutubeSolid,
-  } from "flowbite-svelte-icons";
-</script>
-
 <Footer footerType="sitemap">
   <div class="bg-black text-white p-8 rounded-lg shadow-lg">
     <div class="flex flex-col md:flex-row gap-8 justify-center">
@@ -81,6 +65,20 @@
             <FooterLink href="mailto:hi@magnimont.com">hi@magnimont.com</FooterLink>
           </FooterLinkGroup>
         </div>
+      </div>
+    </div>
+
+    <!-- Payment Methods Section -->
+    <div class="mt-8 text-center">
+      <p class="text-white text-lg font-bold mb-4">We accept the following payment methods:</p>
+      <div class="flex justify-center space-x-4">
+        <img src="https://www.paypalobjects.com/webstatic/icon/pp258.png" alt="PayPal" class="w-8 h-8"/>
+        <img src="https://www.paypalobjects.com/webstatic/mktg/logo/bdg_xoom.svg" alt="Xoom" class="w-8 h-8"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/UPI-Logo-vector.svg" alt="UPI" class="w-8 h-8"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Visa_Inc._logo.svg" alt="Visa/MasterCard" class="w-8 h-8"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Google_Pay_Logo.svg" alt="Google Pay" class="w-8 h-8"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Cryptocurrency_Logo.svg" alt="Crypto" class="w-8 h-8"/>
+        <img src="https://cryptologos.cc/logos/solana-sol-logo.svg" alt="Solana" class="w-8 h-8"/>
       </div>
     </div>
   </div>
