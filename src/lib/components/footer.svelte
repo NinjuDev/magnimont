@@ -88,13 +88,13 @@
     <div class="flex flex-row justify-center items-center mt-6">
       <!-- Add payment icons with relevant links or descriptions -->
       <img src="https://i.imghippo.com/files/0lR9W1729434470.png" alt="PayPal" class="w-10 h-10 mx-2" />
-      <img src="https://i.imghippo.com/files/xzaI11729441915.png" alt="Xoom" class="w-10 h-10 mx-2" />
+      <img src="https://i.imghippo.com/files/FfEeo1729443120.png" alt="Xoom" class="w-10 h-10 mx-2" />
       <img src="https://i.imghippo.com/files/Ee3ed1729434490.png" alt="UPI" class="w-10 h-10 mx-2" />
       <img src="https://i.imghippo.com/files/0qfF61729441941.png" alt="Visa" class="w-10 h-10 mx-2" />
       <img src="https://i.imghippo.com/files/DJMED1729434451.png" alt="Mastercard" class="w-10 h-10 mx-2" />
-      <img src="https://i.imghippo.com/files/DVhkg1729434433.png" alt="Google Pay" class="w-10 h-10 mx-2" />
-      <img src="https://i.imghippo.com/files/Gy5j71729441957.png" alt="Crypto" class="w-10 h-10 mx-2" />
-      <img src="https://i.imghippo.com/files/ogOU61729441974.png" alt="Solana" class="w-10 h-10 mx-2" />
+      <img src="https://i.imghippo.com/files/dYdmk1729442965.png" alt="Google Pay" class="w-10 h-10 mx-2" />
+      <img src="https://i.imghippo.com/files/t84Rd1729443149.png" alt="Crypto" class="w-10 h-10 mx-2" />
+      <img src="https://i.imghippo.com/files/QwzZm1729443014.png" alt="Solana" class="w-10 h-10 mx-2" />
     </div>
   </div>
 </Footer>
